@@ -1,3 +1,4 @@
+### PROJECT VARIABLES ###
 variable "Env" {} #
 variable "main_vpc" {} #
 variable "dmz_subnet_1" {} #
